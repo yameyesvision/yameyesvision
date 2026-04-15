@@ -37,3 +37,8 @@ A debut memoir written as a father's letter to his son. Not a how-to manual. Not
 - YouTube: https://www.youtube.com/@YamEyesVision
 - Pinterest: https://www.pinterest.com/yameyesvision
 - Custom music: https://www.fiverr.com/yameyesvision
+
+## Full Reference
+
+For complete information including full bios, all site pages, themes, press assets, and AI usage permissions, see:
+https://yameyesvision.com/llms-full.txt
