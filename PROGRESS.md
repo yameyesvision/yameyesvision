@@ -2,48 +2,37 @@
 
 ---
 
-## 2026-04-14
+## Session: Apr 14–15, 2026
 
-**Done:**
-- Website is live at yameyesvision.com
-- First Rufus video finished and uploaded
-- Second Rufus video uploading tomorrow
-- Amazon Ads running: $5/day, Sponsored Products auto-targeting, Apr 13–20
-- Kindle price dropped to $3.99
-- Baseline stats snapshot logged in stats-tracker.md (45 total sales, 1.1K YT views, 2,264 IG followers)
-- Had deep ChatGPT session on SEO strategy (SEMrush, Screaming Frog, Google ranking) — full conversation to be pasted in next session
+### Site Status
+- Live at https://yameyesvision.com/
+- All 10 pages indexed in Google Search Console ✅
 
-- SEO structured data (Schema.org JSON-LD) added to site — Google can now read book title, author, price, format, genre
-- Meta description added — shows under link in Google search results
-- Open Graph tags added — book cover + description auto-shows when link shared on social
-- Twitter card tags added
-- Page title updated to "To the Son Who Saved Me | Adam Llamas — YamEyes Vision"
-- llms.txt created — AI tools (ChatGPT, Perplexity, Claude) can now find and describe the book
-- CNAME file added to repo — custom domain properly connected
-- GitHub auth fixed (switched from toolshed-commits → yameyesvision)
-- All changes pushed live to yameyesvision.com
-- stats-tracker.md created for ongoing stats snapshots
-- action-plan.md created with prioritized to-do list
+### Completed (Apr 14–15)
+- Full SEO + accessibility audit (yameyesvision.com) — identified security headers, 4xx errors, contrast issues
+- Sitewide contrast improvements (opacity and text-white values bumped for WCAG compliance)
+- Footer and dark section contrast upgraded across all pages
+- Em dashes fixed sitewide (index.html, book/index.html)
+- Book page: hardcover availability added, upcoming products teased
+- Homepage: author quote added under book title, about section copy rewritten
+- Mid-page CTA section added (between About and Music sections)
+- CTA buttons standardized to "Get the Book" across site
+- Press page: asset labels cleaned up, media kit card repurposed
+- Reflections page "Stay in the Loop" copy updated
 
-**In Progress:**
-- Rufus video series (1 of ? done, next uploading tomorrow)
-- Amazon Ads ($5/day through Apr 20 — check results Apr 20)
+### Completed (Apr 15 evening)
+- "Everything Had Somewhere to Go" block on about page — added "The creativity.", line breaks to match homepage
+- Reflections page: swapped "Essays & Thoughts" → "Words & Thoughts"
+- Favicon: bolder YEV — increased font size (180→240) and weight (700→900), regenerated all PNGs + ICO
+- Reviews section: increased card spacing (gap-10, p-10), bumped quote text to text-2xl
+- New hero image: swapped to yameyes_website_hero.jpeg (father & son at park, sepia)
+- Hero text pushed to lower third — image moment breathes at top
+- All changes committed and pushed to GitHub ✅
 
-- Google Search Console verified and live (HTML tag method)
-- sitemap.xml created and submitted to Google — 1 page discovered, Status: Success
-
-**Up Next:**
-- Check Amazon ad results Apr 20 → decide continue or pause
-- Set up Gumroad signed copy store (target: live by May 1 for Father's Day)
-- Add "Gift a Signed Copy" section to website
-- SEMrush keyword research (after Search Console is running)
-- Continue Rufus video uploads
-
-**Tracking Plan:**
-- Pinterest stats (every 2 weeks — snapshots shared in chat)
-- Amazon KDP dashboard (sales, page reads, rank)
-- YouTube/video views
-- Website traffic (Google Search Console — once set up)
-- Amazon reviews count
-
----
+### Up Next
+- Swap Linktree to yameyesvision.com across all socials/bios
+- Push updated book interior to Amazon
+- Kit email list setup
+- Film first 5 Rufus videos
+- Truth 10 filled in across all content docs
+- Stats tracking baseline
